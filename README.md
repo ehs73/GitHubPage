@@ -13,3 +13,9 @@ Here are the number of letters published per month. Similar caveat to the above.
 
 <img src="https://github.com/ehs73/AwkwardScraping/blob/main/CaptainAwkward_Letter_Frequency.png" alt="By month Dates are rounded up to the next calendar month. Need to fix.">
 
+Here are the number of letters published per month. It is saved in this public repository instead of a private one so perhaps it is visible.
+
+<img src="https://github.com/ehs73/My-Pages/blob/main/CaptainAwkward_Letter_Frequency.png" alt="By month Dates are rounded up to the next calendar month. Need to fix.">
+
+For good measure, here is Wiggle Bug.
+<img src="https://github.com/ehs73/My-Pages/blob/main/WiggleBug.jpg" alt="Best cat ever.">
